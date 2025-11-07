@@ -1,16 +1,16 @@
 const fs = require('fs')
 
 //~~~~~~~~~~~ Settings Owner ~~~~~~~~~~~//
-global.owner = "94784548818"
-global.developer = "94766359869"
+global.owner = "94751645330"
+global.developer = "94751645330"
 global.bot = ""
-global.devname = "pasidu sampath"
-global.ownername = "pasidu sampath"
-global.botname = "PASIYA-MD"
+global.devname = "cybar loku riko"
+global.ownername = "cybar loku riko"
+global.botname = "LOKU RIKO MINI BOT V2"
 global.versisc = "45"
-global.packname = "PASIYA-MD"
+global.packname = "LOKU RIKO"
 //~~~~~~~~~~~ Settings Sosmed ~~~~~~~~~~~//
-global.linkwa = "https://wa.me/94784548818"
+global.linkwa = "https://wa.me/94751645330"
 global.linkyt = "  😩"
 global.linktt = "  8"
 global.linktele = "me"
@@ -32,8 +32,8 @@ global.thumbown = ""
 
 //~~~~~~~~~~~ Settings Channel ~~~~~~~~~~~//
 global.idchannel = "120363402825685029@newsletter"
-global.channelname = "PASIYA-MD"
-global.channel = "https://whatsapp.com/channel/0029VbBfcs789iniJkpPNR1t"
+global.channelname = "LOKU RIKO MINI BOT V2 SUPPORT CHANNEL"
+global.channel = "https://whatsapp.com/channel/0029VbBeDic1yT20xcz3qo0y"
 
 //~~~~~~~~~~~ Settings Message ~~~~~~~~~~~//
 global.mess = {
